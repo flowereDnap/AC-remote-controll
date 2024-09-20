@@ -1,0 +1,20 @@
+PODS:
+  - crypto-swift (1.0.4)
+  - SwiftAsyncSocket (0.2.0)
+
+DEPENDENCIES:
+  - crypto-swift
+  - SwiftAsyncSocket
+
+SPEC REPOS:
+  trunk:
+    - crypto-swift
+    - SwiftAsyncSocket
+
+SPEC CHECKSUMS:
+  crypto-swift: 6743c625cd9600646c1cbdc9504c93ee4ee3cc56
+  SwiftAsyncSocket: cd8e4004406af6baa970555d6c97435441699bea
+
+PODFILE CHECKSUM: e538c2a07864fce7b47c8195395f5c3fe7b1b647
+
+COCOAPODS: 1.15.2

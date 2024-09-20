@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftAsyncSocket.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/crypto_swift.framework

@@ -1,0 +1,6 @@
+framework module SwiftAsyncSocket {
+  umbrella header "SwiftAsyncSocket-umbrella.h"
+
+  export *
+  module * { export * }
+}
